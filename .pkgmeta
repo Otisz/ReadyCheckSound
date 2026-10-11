@@ -2,3 +2,4 @@ package-as: ReadyCheckSound
 
 ignore:
   - README.md
+  - media

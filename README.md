@@ -1,3 +1,5 @@
+<p align="center"><img src="media/logo.png" alt="ReadyCheckSound logo" width="160"></p>
+
 # ReadyCheckSound
 
 A tiny World of Warcraft (Retail) addon that makes sure you never miss a ready check when you play with sound effects turned off.
