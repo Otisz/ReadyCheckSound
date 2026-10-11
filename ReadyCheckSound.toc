@@ -3,5 +3,6 @@
 ## Notes: Plays the ready check sound on the Master channel when sound effects are disabled.
 ## Author: Otisz
 ## Version: @project-version@
+## X-Curse-Project-ID: 1739707
 
 ReadyCheckSound.lua
