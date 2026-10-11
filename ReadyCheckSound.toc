@@ -1,0 +1,7 @@
+## Interface: 120100, 120105
+## Title: ReadyCheckSound
+## Notes: Plays the ready check sound on the Master channel when sound effects are disabled.
+## Author: Otisz
+## Version: 1.0.0
+
+ReadyCheckSound.lua
