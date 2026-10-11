@@ -37,6 +37,18 @@ Install **ReadyCheckSound** through the CurseForge app, or download it from the 
 
 World of Warcraft Retail (Interface 120100 / 120105).
 
+## Releasing
+
+Releases are built by the [BigWigs packager](https://github.com/BigWigsMods/packager) via GitHub Actions. Pushing a tag like `v1.0.1` packages the addon (the tag becomes the version in the `.toc`), creates a GitHub release, and uploads it to CurseForge.
+
+Requirements:
+- `## X-Curse-Project-ID` set in `ReadyCheckSound.toc`
+- A `CF_API_KEY` repository secret containing a CurseForge API token
+
 ## Author
 
 Otisz
+
+## License
+
+[MIT](LICENSE)
